@@ -1,4 +1,4 @@
-x = int(input("Input a number: "))
+x = int(input())
 sum=0
 while x!=0:
     sum+=x
